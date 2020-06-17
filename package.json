@@ -1,0 +1,19 @@
+{
+    "name": "durityAIO",
+    "version": "0.0.1",
+    "description": "Durity fingerprint plugin", 
+    "cordova": {
+      "id": "cordova-plugin-durityAIO",
+      "platforms": [ 
+        "ios"
+      ]
+    },
+    "keywords": [ 
+      "cordova",
+      "durity",
+      "ecosystem:cordova",
+      "cordova-ios"
+    ],
+    "author": "polavenky", 
+    "license": "MIT"
+  }
